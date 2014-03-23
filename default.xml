@@ -16,7 +16,7 @@
 <!-- gfreed repositories -->
 
 <project path="vendor/gfreed" name="android_vendor_gfreed" remote="gfreed" revision="android-4.4" />
-<project path="build" name="android_build" remote="gfreed" revision="gfreed" groups="pdk">
+<project path="build" name="android_build" remote="gfreed" revision="android-4.4" groups="pdk">
     <copyfile src="core/root.mk" dest="Makefile" />
 </project>
 <project path="frameworks/base" name="android_frameworks_base" remote="gfreed" revision="android-4.4" />
