@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-<remote name="aosp" fetch=".." review="https://android-review.googlesource.com/" />
+<remote name="aosp" fetch="https://android.googlesource.com" review="https://android-review.googlesource.com/" />
 <remote name="github" fetch="https://github.com/" />
 <remote name="omnirom" fetch="https://github.com/omnirom" />
 <remote name="cm" fetch="https://github.com/CyanogenMod" />
