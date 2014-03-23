@@ -23,7 +23,7 @@
 <project path="external/chromium_org" name="android_external_chromium-org" remote="gfreed" revision="android-4.4" />
 <project path="system/core" name="android_system_core" remote="gfreed" revision="android-4.4" />
 <project path="system/extras" name="android_system_extras" remote="gfreed" revision="android-4.4" />
-<project path="packages/apps/Settings" name="android_apps_settings" remote="gfreed" revision="kitkat-dev" />
+<project path="packages/apps/Settings" name="android_apps_settings" remote="gfreed" revision="android-4.4" />
 
 <project path="packages/apps/fdroidclient" name="rtreffers-fdroidclient.git" remote="fdroid" revision="master" />
 <project path="packages/apps/fdroidclient/extern/UniversalImageLoader" name="nostra13/Android-Universal-Image-Loader" remote="github" revision="master" />
