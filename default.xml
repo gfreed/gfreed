@@ -11,7 +11,7 @@
 
 <!-- default -->
 
-<default revision="android-4.4.4_r1" remote="aosp" sync-j="4" />
+<default revision="refs/tags/android-4.4.4_r1" remote="aosp" sync-j="4" />
 
 <!-- gfreed repositories -->
 
@@ -81,8 +81,8 @@
 
 <!-- remaining AOSP -->
 
-  <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" revision="kitkat-dev" />
-  <project path="art" name="platform/art" />
+  <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
+  <project path="art" name="platform/art" revision="master" />
   <project path="bionic" name="platform/bionic" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
   <project path="bootable/diskinstaller" name="platform/bootable/diskinstaller" />
