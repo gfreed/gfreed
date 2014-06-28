@@ -11,7 +11,7 @@
 
 <!-- default -->
 
-<default revision="kitkat-dev" remote="aosp" sync-j="4" />
+<default revision="android-4.4.4_r1" remote="aosp" sync-j="4" />
 
 <!-- gfreed repositories -->
 
