@@ -32,9 +32,9 @@
 <project path="packages/apps/UnifiedNlp" name="android_packages_apps_UnifiedNlp" remote="microg" revision="master" />
 <project path="packages/apps/gsmlp" name="rtreffer/LocalGSMLocationProvider" remote="github" revision="master" />
 
-<project path="frameworks/maps" name="MapsAPI" remote="gfreed" revision="master" />
-
-<project path="packages/apps/Email2" name="rtreffer/openpgp-k-9" remote="github" revision="openpgp" />
+<project path="frameworks/mapsv1" name="android_frameworks_mapsv1" remote="microg" revision="master" />
+<project path="packages/apps/GmsCore" name="android_packages_apps_GmsCore" remote="microg" revision="master" />
+<project path="packages/apps/FakeStore" name="android_packages_apps_FakeStore" remote="microg" revision="master" />
 
 <!-- omnirom -->
 
