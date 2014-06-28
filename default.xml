@@ -137,10 +137,11 @@
   <project path="external/chromium" name="platform/external/chromium" />
   <project path="external/chromium-libpac" name="platform/external/chromium-libpac" />
   <project path="external/chromium-trace" name="platform/external/chromium-trace" groups="pdk" />
+  <project path="external/chromium_org" name="platform/external/chromium_org" />
   <project path="external/chromium_org/sdch/open-vcdiff" name="platform/external/chromium_org/sdch/open-vcdiff" />
   <project path="external/chromium_org/testing/gtest" name="platform/external/chromium_org/testing/gtest" />
   <project path="external/chromium_org/third_party/WebKit" name="platform/external/chromium_org/third_party/WebKit" />
-  <project path="external/chromium_org/third_party/angle_dx11" name="platform/external/chromium_org/third_party/angle_dx11" />
+  <project path="external/chromium_org/third_party/angle" name="platform/external/chromium_org/third_party/angle" />
   <project path="external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" name="platform/external/chromium_org/third_party/eyesfree/src/android/java/src/com/googlecode/eyesfree/braille" />
   <project path="external/chromium_org/third_party/freetype" name="platform/external/chromium_org/third_party/freetype" />
   <project path="external/chromium_org/third_party/icu" name="platform/external/chromium_org/third_party/icu" />
@@ -152,6 +153,7 @@
   <project path="external/chromium_org/third_party/openssl" name="platform/external/chromium_org/third_party/openssl" />
   <project path="external/chromium_org/third_party/opus/src" name="platform/external/chromium_org/third_party/opus/src" />
   <project path="external/chromium_org/third_party/ots" name="platform/external/chromium_org/third_party/ots" />
+  <project path="external/chromium_org/third_party/sfntly/cpp/src" name="platform/external/chromium_org/third_party/sfntly/cpp/src" />
   <project path="external/chromium_org/third_party/skia/gyp" name="platform/external/chromium_org/third_party/skia/gyp" />
   <project path="external/chromium_org/third_party/skia/include" name="platform/external/chromium_org/third_party/skia/include" />
   <project path="external/chromium_org/third_party/skia/src" name="platform/external/chromium_org/third_party/skia/src" />
@@ -159,8 +161,7 @@
   <project path="external/chromium_org/third_party/yasm/source/patched-yasm" name="platform/external/chromium_org/third_party/yasm/source/patched-yasm" />
   <project path="external/chromium_org/tools/grit" name="platform/external/chromium_org/tools/grit" />
   <project path="external/chromium_org/tools/gyp" name="platform/external/chromium_org/tools/gyp" />
-  <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" />
-  <project path="external/clang" name="platform/external/clang" groups="pdk" />
+  <project path="external/chromium_org/v8" name="platform/external/chromium_org/v8" />  <project path="external/clang" name="platform/external/clang" groups="pdk" />
   <project path="external/compiler-rt" name="platform/external/compiler-rt" groups="pdk" />
   <project path="external/dexmaker" name="platform/external/dexmaker" />
   <project path="external/dhcpcd" name="platform/external/dhcpcd" />
