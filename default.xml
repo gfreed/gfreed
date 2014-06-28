@@ -81,7 +81,7 @@
 
 <!-- remaining AOSP -->
 
-  <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" />
+  <project path="abi/cpp" name="platform/abi/cpp" groups="pdk" revision="kitkat-dev" />
   <project path="art" name="platform/art" />
   <project path="bionic" name="platform/bionic" groups="pdk" />
   <project path="bootable/bootloader/legacy" name="platform/bootable/bootloader/legacy" />
